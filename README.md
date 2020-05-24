@@ -19,7 +19,7 @@ The above are important as the client will ask the server for a subdomain under 
 
 ```shell
 # pick a place where the files will live
-git clone git://github.com/ramumanavalan/localtunnel-server.git
+git clone git://github.com/ramumanavalan/server.git
 cd localtunnel-server
 npm install
 
